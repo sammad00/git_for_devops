@@ -1,3 +1,3 @@
-# This is the branching branch for features
+# Branching Stratergies 
 
-now we can explore more details about git [Git branching strategies guide](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh)
+Now we can explore more details about Git [Git branching strategies guide](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh)
